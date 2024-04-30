@@ -1,0 +1,38 @@
+[{
+        "id": 1,
+        "name": "Web Design",
+        "title": "Web design is a multifaceted disciline that involves creating and mainraining the visual appearance and ser experience of websites.It encompasses various elements.including graphic design,user interface(UI) design, User experience (UI) design and front-end development.Here are key components of web design.",
+        "image": "https://images.pexels.com/photos/4549418/pexels-photo-4549418.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 2,
+        "name": "Web Developing",
+        "title": "Web development is a dynamic and ever-evolving field that plays a pivotal role in shaping the digital landscape. At its core, web development involves the creation and maintenance of websites, applications, and online platforms that enable seamless interactions and user experiences on the internet.",
+        "image": "https://images.pexels.com/photos/5926393/pexels-photo-5926393.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 3,
+        "name": "Testing and Debugging",
+        "title": "Testing acts as the first line of defense, subjecting the software to a battery of examinations to unearth potential flaws and vulnerabilities. This meticulous process encompasses unit testing, integration testing, and system testing, each layer peeling back the veil on the software' s functionality",
+        "image": "https://images.pexels.com/photos/3861972/pexels-photo-3861972.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 4,
+        "name": "Frontend Frameworks",
+        "title": "Frontend frameworks play a pivotal role in shaping the user interface and interactivity of modern web applications. React, a declarative library by Facebook, streamlines UI development through its component-based architecture, fostering the creation of dynamic and efficient user interfaces.",
+        "image": "https://images.pexels.com/photos/574071/pexels-photo-574071.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 5,
+        "name": " Video Editing",
+        "title": "Video editing is a dynamic and indispensable aspect of the multimedia landscape, weaving together visual elements to create compelling narratives and engaging content. This intricate craft involves manipulating raw footage, seamlessly blending scenes, and enhancing visual aesthetics to deliver a polished and professional final product.",
+        "image": "https://images.pexels.com/photos/8102677/pexels-photo-8102677.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    {
+        "id": 6,
+        "name": " Photography",
+        "title": "Photography is a captivating art form that allows individuals to freeze moments in time and preserve them for eternity. Through the lens of a camera, photographers become storytellers, capturing the essence of a fleeting moment and transforming it into a visual narrative.",
+        "image": "https://images.pexels.com/photos/1787220/pexels-photo-1787220.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+
+]

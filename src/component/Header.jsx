@@ -35,7 +35,7 @@ function Header() {
         </Dropdown> */}
         <NavbarToggle />
       </div>
-      <NavbarCollapse>
+      <NavbarCollapse className="text-center ">
         <NavbarLink href="#" active>
           Home
         </NavbarLink>
