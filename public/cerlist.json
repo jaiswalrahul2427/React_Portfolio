@@ -1,0 +1,110 @@
+[{
+        "id": 1,
+        "tittle": "Backend Development",
+        "dis": " I've successfully completed the Backend Development course with PW Skills.",
+        "link": "https://drive.google.com/file/d/1idUtVF5M8jQDuecGq7jhcvn6UkXV5l9w/view?usp=sharing",
+        "img": "../src/assets/Back.png"
+    },
+    {
+        "id": 2,
+        "tittle": "Git & Github",
+        "dis": "Participation in Git & Github Webinar",
+        "link": "https://drive.google.com/file/d/1SASh5jPsQo28MK3S58Wyf3UcpZh_WYtv/view",
+        "img": "https://media.licdn.com/dms/image/D5622AQFSud4fh4Z4KA/feedshare-shrink_2048_1536/0/1710477039668?e=1717632000&v=beta&t=2v7H1clrbPmBzT6-acDQZyWR065U76gauKvsXvNCSmQ"
+
+    },
+    {
+        "id": 3,
+        "tittle": "Full Stack Web Developmment",
+        "dis": " I've successfully completed the Full Stack Web Development course from PW Skills",
+        "link": "https://drive.google.com/file/d/1K4dQrS7k06yVaQMk0kSP_V381-RtEzX5/view",
+        "img": "https://media.licdn.com/dms/image/D5622AQHgqSwgI9TQEQ/feedshare-shrink_800/0/1709004071077?e=1717632000&v=beta&t=s6h-vU1-OExtjOS3Aer0Sy5vt3PBpsht8DDqUj2OYyA"
+
+    },
+    {
+        "id": 4,
+        "tittle": "Spoken English",
+        "dis": "I have successfully completed the 'Spoken English' course offered by Great Learning Academy. ",
+        "link": "https://drive.google.com/file/d/1zBv6HU3kAsI-CcNESiJVn6lxM7o4zrsF/view",
+        "img": "https://media.licdn.com/dms/image/D5622AQGukqJmpndifw/feedshare-shrink_2048_1536/0/1707706128973?e=1717632000&v=beta&t=msUAHog94zDj9asVHjmx9xom7wzeN6N-jtHkD7qBejg"
+    },
+    {
+        "id": 5,
+        "tittle": "AWS Skill Builder Course ",
+        "dis": "I have successfully completed the Amazon Web Services (AWS) Skill Builder Learner Guide from Amazon Training and Certification! ",
+        "link": "https://drive.google.com/file/d/1AujoBUQxhUXKCDQrMFNfWkzVQoxbr1ip/view",
+        "img": "https://media.licdn.com/dms/image/D5622AQHKv33LoBqbeQ/feedshare-shrink_800/0/1706071517742?e=1717632000&v=beta&t=Fw501s5avekgpjWyk0a6i-hmoH5FAr-FGkfVdNOaGQs"
+    },
+    {
+        "id": 6,
+        "tittle": "Google Cloud",
+        "dis": "I've successfully completed the rigorous Cloud Technical Series '23 by Google Cloud Asia Pacific, adding another feather to my cap in the dynamic world of cloud computing",
+        "link": "https://drive.google.com/file/d/1ObmQU567Lolts-VU3f2aUkMhJhnShcHG/view",
+        "img": "https://templates.images.credential.net/17021735784313729070809071438636.png"
+    },
+    {
+        "id": 7,
+        "tittle": "Java",
+        "dis": "I've completed my Java course with Great Learning!",
+        "link": "https://drive.google.com/file/d/1qUqA5tUqMAfodgQNB_RjKJJ8O1O6YPRN/view",
+        "img": "https://media.licdn.com/dms/image/D5622AQEZOxOpvy1lQQ/feedshare-shrink_800/0/1705648075083?e=1717632000&v=beta&t=XMGA7FTK52NP2tXQztv09GWLdsO72f9PwxvYJQ3Yvv4"
+    },
+
+    {
+        "id": 8,
+        "tittle": "Web Development Internship",
+        "dis": " I have successfully completed my internship with CodeAlpha !",
+        "link": "https://drive.google.com/file/d/1_FofBFvGktGo9-_7vjX-qZS7q13Gjzti/view",
+        "img": "https://media.licdn.com/dms/image/D4D22AQGkB7xMPwppww/feedshare-shrink_800/0/1696562483912?e=1717632000&v=beta&t=pLsww-QihpvET221Z8NoDQGPYyVCbXo4ox2ZSvUZMag"
+    },
+    {
+        "id": 9,
+        "tittle": "ISP First Training Contest Webinar ",
+        "dis": "Participate in the First Trainings Contest Webinar, hosted by Internsala!",
+        "link": "https://drive.google.com/file/d/1ETNxDPRFefshWpcsN3jgWuHcbabShv_U/view",
+        "img": "https://media.licdn.com/dms/image/D4D22AQE-G1VF4mOPGA/feedshare-shrink_800/0/1694587294931?e=1717632000&v=beta&t=xGzTd53z3d7NnTBDgSxEyq-Sme6cVm4Z2sl2rkpNtJY"
+    },
+    {
+        "id": 10,
+        "tittle": "C Programming Language",
+        "dis": "I have Completed C Programming Language from MeenCat PC!",
+        "link": "https://drive.google.com/file/d/11VVFQ5w-Y5gUgHysPkV1KFtQl7PV7YBV/view",
+        "img": "../src/assets/C Certificate.png"
+    },
+    {
+        "id": 11,
+        "tittle": "Web Development Internship",
+        "dis": " I've successfully completed my internship at OctaNet Services Pvt Ltd.!",
+        "link": "https://drive.google.com/file/d/1MT0v87gth7EjYb_DEfR7k4ALfNsnevg3/view",
+        "img": "https://media.licdn.com/dms/image/D4D22AQHmLwlpA30IFA/feedshare-shrink_800/0/1696147981684?e=1717632000&v=beta&t=BcZU0LHrGN6YFa5cDFE_D5-dohaGA5p5oOu6ioB29_8"
+    },
+    {
+        "id": 12,
+        "tittle": "Web Development Internship",
+        "dis": "I have successfully completed my one-month web development internship at CodSoft",
+        "link": "https://drive.google.com/file/d/1MAvQBo1R_-t-2jeVnfOHCmq8ITyfWfTw/view",
+        "img": "https://media.licdn.com/dms/image/D4D22AQGfrUPMadDV4Q/feedshare-shrink_800/0/1696820155072?e=1717632000&v=beta&t=VubEQHYPLoLLBymZKIX902nIH0kDdnn93nw-PdK4Scc"
+    },
+    {
+        "id": 13,
+        "tittle": "Web Development Professional Certificate",
+        "dis": " Web Development Professional, thanks to my rigorous training at MTF Institute of Management, Technology, and Finance",
+        "link": "https://drive.google.com/file/d/1mXLS05iQD1yLQXXBCC5FKnXWl_wCtfd0/view",
+        "img": "https://media.licdn.com/dms/image/D4D22AQE2upxdN3sJ3g/feedshare-shrink_800/0/1697169124632?e=1717632000&v=beta&t=YgsWvfh7dLMukrXdmZM7nd3y-Usu_eXZjITPpozfJnM"
+    },
+
+    {
+        "id": 14,
+        "tittle": "Java Programming Language Internship ",
+        "dis": "1-month internship at LearnSmasher EduTech LLP, gaining hands-on experience and honing my skills in Java programming language",
+        "link": "https://drive.google.com/file/d/1KaIaN_Tb3eTpZq_xmGUQJW6q63n6SfIq/view?usp=sharing",
+        "img": "https://media.licdn.com/dms/image/D5622AQFwGyLA21II9Q/feedshare-shrink_2048_1536/0/1709702388660?e=1717632000&v=beta&t=jOvmC50Qg5eDZ9lJwiDBjz4CtBm_z2mIDEmK_W3zHYI"
+    },
+    {
+        "id": 15,
+        "tittle": "Web Development Internship",
+        "dis": "2-month internship with LearnSmasher EduTech LLP",
+        "link": "https://drive.google.com/file/d/1oHuRJSpiRkE7STEDgFcxEe-sLEzbqt2A/view?usp=sharing",
+        "img": "https://media.licdn.com/dms/image/D5622AQEIB0s_OFuFbw/feedshare-shrink_800/0/1704982406542?e=1717632000&v=beta&t=xKi_CXX532123A05r7kHO20Yg4r0bFwIGnylJwm-VTc"
+    }
+]
