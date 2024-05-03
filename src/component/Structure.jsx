@@ -4,6 +4,7 @@ import SecondPage from './SecondPage'
 import ThirdPage from './ThirdPage'
 import FourthPage from './FourthPage'
 import Certificate from './Certificate'
+import Education from './Education'
 
 function Structure() {
   return (
@@ -13,6 +14,7 @@ function Structure() {
       <SecondPage/>
       <ThirdPage/>
       <Certificate/>
+      <Education/>
     </>
   )
 }

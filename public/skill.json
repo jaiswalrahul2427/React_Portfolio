@@ -1,0 +1,87 @@
+[{
+        "id": 1,
+        "name": "C"
+
+    },
+    {
+        "id": 2,
+        "name": "C++"
+
+    },
+    {
+        "id": 3,
+        "name": "Java"
+
+    },
+    {
+        "id": 4,
+        "name": "HTML"
+
+    },
+    {
+        "id": 5,
+        "name": "CSS"
+
+    },
+    {
+        "id": 6,
+        "name": "JavaScript"
+
+    },
+    {
+        "id": 7,
+        "name": "React JS"
+
+    },
+    {
+        "id": 8,
+        "name": "Mongo Db"
+
+    },
+    {
+        "id": 9,
+        "name": "Node JS"
+
+    },
+    {
+        "id": 10,
+        "name": "Media Query"
+
+    },
+    {
+        "id": 11,
+        "name": "Tailwind CSS"
+
+    },
+    {
+        "id": 12,
+        "name": "Bootstrap"
+
+    },
+    {
+        "id": 13,
+        "name": "Canva"
+
+    },
+    {
+        "id": 14,
+        "name": "Git & Github"
+
+    },
+    {
+        "id": 15,
+        "name": "Data Management"
+
+    },
+    {
+        "id": 16,
+        "name": "MS Word"
+
+    },
+    {
+        "id": 17,
+        "name": "MS Excel"
+
+    }
+
+]
