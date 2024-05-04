@@ -1,7 +1,7 @@
 import React from 'react'
 import pic2 from '../assets/pic2.png'
 import { FaGithub, FaInstagram, FaLinkedin } from 'react-icons/fa'
-function SecondPage() {
+function About() {
   return (
     <div className='flex flex-wrap justify-between min-h-screen px-10 pt-48 text-white bg-black '>
       <div className=' lg:w-1/4'>
@@ -22,7 +22,7 @@ function SecondPage() {
           <div className='flex pt-2 space-x-2 text-3xl text-blue-900'>
             <a className='pl-2 duration-200 hover:text-blue-700 hover:text-3xl ' href="https://www.linkedin.com/in/rahul-jaiswal-278079204"> <FaLinkedin /></a>
             <a className='duration-200 hover:text-red-700 hover:text-3xl' href="https://instagram.com/jaiswalrahul2427?igshid=MzRlODBiNWFlZA=="><FaInstagram /></a>
-            <a className='duration-200 hover:text-black hover:text-3xl' href="https://github.com/jaiswalrahul2427"><FaGithub /></a>
+            <a className='duration-200 hover:text-gray-800 hover:text-3xl' href="https://github.com/jaiswalrahul2427"><FaGithub /></a>
             <hr />
             <br />
 
@@ -40,4 +40,4 @@ function SecondPage() {
   )
 }
 
-export default SecondPage
+export default About

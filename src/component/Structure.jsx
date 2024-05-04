@@ -1,6 +1,6 @@
 // import React from 'react'
 import Home from './Home'
-import SecondPage from './SecondPage'
+import About from './About'
 import ThirdPage from './ThirdPage'
 import FourthPage from './FourthPage'
 import Certificate from './Certificate'
@@ -11,7 +11,7 @@ function Structure() {
     <>
       <Home/>
 
-      <SecondPage/>
+      <About/>
       <ThirdPage/>
       <Certificate/>
       <Education/>

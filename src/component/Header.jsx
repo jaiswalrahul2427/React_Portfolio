@@ -10,9 +10,8 @@ import {
 } from "flowbite-react";
 function Header() {
   return (
-    <Navbar fluid  className="sticky ">
+    <Navbar fluid  className="sticky text-white bg-black ">
       <NavbarBrand href="">
-        <DarkThemeToggle className="h-10 text-2xl " />      
           <span className="self-center text-xl font-semibold whitespace-nowrap dark:text-white">RJ</span>
       </NavbarBrand>
 
