@@ -3,7 +3,7 @@
         "tittle": "Backend Development",
         "dis": " I've successfully completed the Backend Development course with PW Skills.",
         "link": "https://drive.google.com/file/d/1idUtVF5M8jQDuecGq7jhcvn6UkXV5l9w/view?usp=sharing",
-        "img": "../src/assets/Back.png"
+        "img": "https://media.licdn.com/dms/image/D5622AQFg2B77a96MbA/feedshare-shrink_1280/0/1709523156776?e=1717632000&v=beta&t=CKZM5LbVWG840hrb8QRz0e581vavOwoFlKgQ8lChqCg"
     },
     {
         "id": 2,
@@ -66,10 +66,10 @@
     },
     {
         "id": 10,
-        "tittle": "C Programming Language",
-        "dis": "I have Completed C Programming Language from MeenCat PC!",
-        "link": "https://drive.google.com/file/d/11VVFQ5w-Y5gUgHysPkV1KFtQl7PV7YBV/view",
-        "img": "../src/assets/C Certificate.png"
+        "tittle": "Web Development Internship",
+        "dis": " I've successfully completed my internship at Bharat Intern, and I've received my internship completion certificate! ",
+        "link": "https://drive.google.com/file/d/1NB1KawgqU43MU6Dhn3NJB5lraHAh3KTD/view?usp=sharing",
+        "img": "https://media.licdn.com/dms/image/D4D22AQHJXkV82TbRew/feedshare-shrink_2048_1536/0/1695782566820?e=1717632000&v=beta&t=Rd-mVtGizge_IX6IZB2C8B4ESn667y-CGui-_i5rmk4"
     },
     {
         "id": 11,

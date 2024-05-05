@@ -1,5 +1,5 @@
 import React from 'react'
-import pic2 from '../assets/pic2.png'
+import pic2 from '../../public/pic2.png'
 import { FaGithub, FaInstagram, FaLinkedin } from 'react-icons/fa'
 function About() {
   return (
