@@ -8,6 +8,7 @@ import FourthPage from './component/FourthPage.jsx'
 import About from './component/About.jsx'
 import Education from './component/Education.jsx'
 import Certificate from './component/Certificate.jsx'
+import Project from './component/project/Project.jsx'
 
 
 const router = createBrowserRouter([
@@ -34,6 +35,10 @@ const router = createBrowserRouter([
       {
         path: "/certificate",
         element: <Certificate />
+      },
+      {
+        path:"/project",
+        element:<Project/>
       }
     ]
   }

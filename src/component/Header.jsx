@@ -28,9 +28,10 @@ function Header() {
        <NavLink to="/certificate" className={({isActive}) =>
                                     `block py-2 text-xl  pr-4 pl-3 duration-200 border-b border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 ${isActive ? "text-orange-700":"text-gray-700"} lg:p-0`
                                 }>Certificate</NavLink>
-       <NavLink to="/education" className={({isActive}) =>
+       
+       <NavLink to="/project" className={({isActive}) =>
                                     `block py-2 text-xl  pr-4 pl-3 duration-200 border-b border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 ${isActive ? "text-orange-700":"text-gray-700"} lg:p-0`
-                                }>Education</NavLink>
+                                }>Project</NavLink>
       </NavbarCollapse>
     </Navbar>
   )
