@@ -21,10 +21,10 @@ function Certificate() {
         <h1 className='text-3xl font-kalam'>Certifications</h1>
         <p className='text-2xl font-poppins'>Another way of showcasing skills</p>
       </div>
-      <div className='grid grid-cols-1 px-12 pt-12 text-white bg-black gap-x-4 md:grid-cols-3'>
+      <div className='grid grid-cols-1 px-5 pt-12 text-white bg-black md:px-12 gap-x-4 md:grid-cols-3'>
 
         {cerlist.map((certificate) => (
-          <div key={certificate.id} style={CerStyle(certificate.id)} className='p-5 m-8 text-center border-t-2 border-r-2 rounded shadow-md h-92 w-92 bg-base-100 bg-zinc-950 shadow-cyan-100'>
+          <div key={certificate.id} style={CerStyle(certificate.id)} className='p-5 m-2 text-center border-t-2 border-r-2 rounded shadow-md md:m-8 h-92 w-92 bg-base-100 bg-zinc-950 shadow-cyan-100'>
             <figure className='bg-cover h-42'>
               <img className='container object-contain rounded-xl'  src={certificate.img} alt="img" />
             </figure>
